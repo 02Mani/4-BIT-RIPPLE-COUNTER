@@ -71,7 +71,8 @@ endmodule
 <img width="1487" height="581" alt="image" src="https://github.com/user-attachments/assets/61f6d043-88a7-4891-ad0e-898dca6f9e86" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1593" height="823" alt="image" src="https://github.com/user-attachments/assets/405d5d8d-9199-4e49-8582-4eef79886baf" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/43d1f977-b744-4113-a61c-49b0a1b87a0b" />
+
 
 **RESULTS**
 Thus implementing 4 Bit Ripple Counter using Verilog and validating their functionality using their functional tables is done successfully.
